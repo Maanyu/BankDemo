@@ -63,10 +63,5 @@ License
 
 This repository is released under the MIT License — feel free to use and modify.
 
-⸻
 
-Notes & Customization
 
-Feel free to customize the “Features” and “Tech Stack” sections further to reflect specific parts of your site (e.g., added animations, specific Tailwind plugins, extra React components). If you’d like to elaborate on any part or need help adjusting it, just let me know!
-
-Happy to help make it shine.
